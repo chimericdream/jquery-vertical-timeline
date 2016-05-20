@@ -1,5 +1,6 @@
 [![Version 0.5b](https://img.shields.io/badge/version-0.5b-brightgreen.svg)](https://github.com/chimericdream/jquery-vertical-timeline)
 [![GitHub issues](https://img.shields.io/github/issues/chimericdream/jquery-vertical-timeline.svg)](https://github.com/chimericdream/jquery-vertical-timeline/issues)
+[![jQuery 1.6.4](https://img.shields.io/badge/jQuery-1.6.4-red.svg)](https://jquery.com/)
 
 ### jQuery Vertical Timelines
 

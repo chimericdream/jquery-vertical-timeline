@@ -10,7 +10,7 @@ This plugin turns ordinary definition lists into smooth, interactive, vertical t
 Create your timeline using a standard `<dl>`, with the dates stored in the <dt> tags and any content associated with them stored in the following <dd> tag.
 
 Example:
-```
+```html
 <dl>
     <dt>1589-1591</dt>
     <dd><em>The Two Gentlemen of Verona</em></dd>
@@ -26,7 +26,7 @@ Example:
 
 Next, simply initialize the timeline by calling the plugin. This will add style and functionality to the timeline.
 
-```
+```javascript
 $('dl').verticalTimeline();
 ```
 

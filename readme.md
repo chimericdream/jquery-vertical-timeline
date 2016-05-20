@@ -10,7 +10,8 @@ This plugin turns ordinary definition lists into smooth, interactive, vertical t
 
 Create your timeline using a standard `<dl>`, with the dates stored in the `<dt>` tags and any content associated with them stored in the following `<dd>` tag.
 
-Example:
+##### Example:
+
 ```html
 <dl>
     <dt>1589-1591</dt>
